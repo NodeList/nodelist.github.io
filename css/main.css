@@ -1706,7 +1706,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff18ff;
+  background: #ffac2f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2871,7 +2871,6 @@ a.search-result {
   }
 }
 #SOHUCS #SOHU_MAIN .module-cmt-footer .section-service-w,
-#SOHUCS #SOHU_MAIN .module-cmt-footer .section-service-w .service-wrap-w,
-#SOHUCS #SOHU_MAIN .module-cmt-footer .section-service-w .service-wrap-w a {
+#SOHUCS #SOHU_MAIN .module-cmt-footer .section-service-w .service-wrap-w {
   display: none !important;
 }
